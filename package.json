@@ -1,0 +1,23 @@
+{
+  "name": "hexlettests",
+  "version": "1.0.0",
+  "description": "tests",
+  "type": "module",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/HunterGan/hexletTestsCourse.git"
+  },
+  "author": "GHunter",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HunterGan/hexletTestsCourse/issues"
+  },
+  "homepage": "https://github.com/HunterGan/hexletTestsCourse#readme"
+}
